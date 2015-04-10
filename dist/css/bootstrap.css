@@ -4862,9 +4862,10 @@ a.badge:focus {
   padding: 30px 15px;
   margin-bottom: 30px;
   color: inherit;
-  background-color: #eee;
+  background-color: #333;
   background-image: url('../../images/graduation.jpg');
   background-size:100%;
+  background-repeat: no-repeat;
   min-height: 650px;
   text-align: center;
 }
